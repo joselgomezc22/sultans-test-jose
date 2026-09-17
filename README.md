@@ -9,9 +9,9 @@ cp .env.example .env
 
 Then fill in `.env` with your store's credentials:
 
-- `SHOPIFY_STORE` — your `*.myshopify.com` domain
-- `SHOPIFY_API_VERSION` — the Admin API version to target (e.g. `2026-04`)
-- `SHOPIFY_ADMIN_TOKEN` — a custom app's Admin API access token
+- `SHOPIFY_STORE` —  `interview-00x037s7zm.myshopify.com` 
+- `SHOPIFY_API_VERSION` — 2026-04
+- `SHOPIFY_ADMIN_TOKEN` — custom app's Admin API access token (attached in the PDF of the test)
 
 ## Task 1 – Leaderboard
 
