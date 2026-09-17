@@ -1,0 +1,16 @@
+{
+  "dependencies": {
+    "csv-stringify": "^6.8.3",
+    "dotenv": "^17.4.2",
+    "export-to-csv": "^1.5.0"
+  },
+  "devDependencies": {
+    "@types/node": "^22.20.3",
+    "tsx": "^4.23.13",
+    "typescript": "^7.0.2"
+  },
+  "scripts": {
+    "task1": "tsx src/leaderboard.ts"
+  },
+  "type": "module"
+}
